@@ -8,6 +8,6 @@ python tensorboard.py
 ```
 
 then you can run:
-``` python
+``` bash
 tensorboard --logdir lym_logs
 ```
