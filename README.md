@@ -8,4 +8,7 @@ Before running TensorBoard, make sure you have generated summary data in a log d
 then you can run:
 
 ## tensorboard --logdir lym_logs
-
+``` python
+a=1 
+b=2
+c=a+b
