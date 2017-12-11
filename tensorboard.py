@@ -4,6 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import time
 
+
 def add_layer(inputs, in_size, out_size,n_layer, activation_function=None):
 	
 
