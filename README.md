@@ -11,3 +11,7 @@ then you can run:
 ``` bash
 tensorboard --logdir lym_logs
 ```
+
+where the `--logdir` argument is the parent directory to where the data for all of your backtest runs will be saved. Go to [http://localhost:6006](http://localhost:6006) and you should see this:
+
+![_config.yml](https://github.com/lym0302/lym_tensorboard/blob/master/loss.png)
